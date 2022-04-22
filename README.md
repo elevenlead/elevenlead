@@ -6,7 +6,7 @@
 
 :calendar: 26 ans  
 :round_pushpin: Essonne - France       
-:bulb: aime **développer des applications web** et **découvrir de nouvelles technologies**   
+:bulb: j'aime **développer des applications web** et **découvrir de nouvelles technologies**   
 :white_check_mark: excellent relationnel, à l'ecoute et réactif  
 :white_check_mark: **organiser** et **rigoureux**  
 :white_check_mark: **impliqué** et **persévérant**  
