@@ -1,7 +1,5 @@
 # **Bonjour** :wave:
 
-# **Je suis Aimerick, développeur web** :computer:
-
 ### 💬 **Me contacter**
 
 ## :mag: **À propos**
