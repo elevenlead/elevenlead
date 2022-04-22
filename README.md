@@ -3,7 +3,6 @@
 # **Je suis Aimerick, développeur web** :computer:
 
 ### 💬 **Me contacter**
-https://forthebadge.com/generator/?plabel=eleven&slabel=Lead&ptext=%23000000&pbg=%23FF0000&stext=%23FF0000&sbg=%23000000
 
 ## :mag: **À propos**
 
