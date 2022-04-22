@@ -5,7 +5,7 @@
 ## :mag: **À propos**
 
 :calendar: 26 ans  
-:round_pushpin: vie en Essonne     
+:round_pushpin: Essonne     
 :bulb: aime **développer des applications web** et **découvrir de nouvelles technologies**   
 :white_check_mark: excellent relationnel, à l'ecoute et réactif  
 :white_check_mark: **organiser** et **rigoureux**  
