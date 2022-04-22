@@ -8,7 +8,7 @@
 
 ## :mag: **À propos**
 
-:calendar :26 ans.  
+:calendar: :26 ans.  
 :round*pushpin: vie en Essonne (region parisienne).  
 :bulb: J'aime **développer des applications web** et **découvrir de nouvelles technologies** .  
 :heavy_check_mark: excellent relationnel, à l'ecoute et réactif.
