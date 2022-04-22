@@ -1,4 +1,4 @@
-# **Bonjour** :wave:,
+# **Bonjour** :wave:
 
 # **Je suis Aimerick, développeur web** :computer:
 
