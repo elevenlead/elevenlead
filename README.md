@@ -2,7 +2,6 @@
 
 ## 💬 **Me contacter**
 ![](images/eleven-lead.svg)
-![](images/eleven-lead.svg)](elevenlead.com)
 
 ## :mag: **À propos**
 
