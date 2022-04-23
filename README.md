@@ -23,6 +23,7 @@ _Brevet de Technicien Supérieur (BTS)_ en **Management** des **Unités Commerci
 ## :toolbox: **Stack**
 ![](images/visual-studio-code.svg)
 ![](images/markdown.svg)
+![](images/html.svg)
 
 ## :hearts: **I like**
 
