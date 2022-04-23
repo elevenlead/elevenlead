@@ -1,7 +1,7 @@
 # **Bonjour** :wave:
 
 ## 💬 **Me contacter**
-![](images/eleven-lead.svg)(https://elevenlead.com)
+![](images/eleven-lead.svg)
 
 ## :mag: **À propos**
 
