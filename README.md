@@ -22,7 +22,7 @@ _Brevet de Technicien Supérieur (BTS)_ en **Management** des **Unités Commerci
 
 ## :toolbox: **Stack**
 ![](images/visual-studio-code.svg) ![](images/markdown.svg)      
-![](images/html.svg) ![](images/css.svg) ![](images/javascript.svg)![](images/json.svg)![](images/php.svg)        
+![](images/html.svg) ![](images/css.svg) ![](images/javascript.svg) ![](images/json.svg) ![](images/php.svg)        
 ![](images/my-sql.svg) ![](images/php-myadmin.svg) ![](images/insomia.svg)             
 ![](images/symfony.svg)
 
