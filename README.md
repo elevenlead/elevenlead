@@ -17,7 +17,7 @@
 _Brevet de Technicien Supérieur (BTS)_ en **Management** des **Unités Commerciales**, _Licence Professionnelle_ en **Banque**, **Finance** et **Assurance** et un _Titre Professionnel_ de **Développeur Web & Web Mobile** obtenu aprés une formation **Full Stacks** effectuée avec l'école [O'clock](https://oclock.io/)  
 :mortar_board: **étutdie** et **pratique couramment** la programmation pour **ameliorer** mes **compétences**    
 :seedling: **continue** à en **apprendre** plus à propos de **HTML**, **CSS**, **JS**, **PHP** et **Symfony** au travers une **pratique quotidienne**   
-:speech_balloon: **Intéréssé** par des **missions** en **freelance**, pour des **petites** et **moyennes entreprises** (PME)      
+:speech_balloon: **intéréssé** par des **missions** en **freelance**, pour des **petites** et **moyennes entreprises** (PME)      
 :e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon **site internet** [elevenLead](https://oclock.io/) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
 
 ## :toolbox: **Stack**
