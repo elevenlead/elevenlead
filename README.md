@@ -21,6 +21,7 @@ _Brevet de Technicien Supérieur (BTS)_ en **Management** des **Unités Commerci
 :e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon **site internet** [elevenLead](https://oclock.io/) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
 
 ## :toolbox: **Stack**
+![](images/visual-studio-code.svg) ![](images/markdown.svg)
 
 ## :hearts: **I like**
 
