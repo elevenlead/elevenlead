@@ -31,7 +31,7 @@
 ## :hearts: **I like**
 
 :earth_americas: :airplane: voyager pour découvrir le monde  
-:deciduous_tree: êtra dans la nature  
+:deciduous_tree: être dans la nature  
 :lotus_position_man: méditer  
 :books: lire  
 :man_cartwheeling: faire du sport  
