@@ -7,7 +7,7 @@
 
 :calendar: 26 ans  
 :round_pushpin: situé en Essonne - France       
-:bulb: aime **développer des applications web** et **découvrir de nouvelles technologies**   
+💻 aime **développer des applications web** et **découvrir de nouvelles technologies**   
 :white_check_mark: excellent relationnel, à l'ecoute et réactif  
 :white_check_mark: **organiser** et **rigoureux**  
 :white_check_mark: **impliqué** et **persévérant**  
@@ -17,8 +17,7 @@
 :mortar_board: _Brevet de Technicien Supérieur (BTS)_ en **Management** des **Unités Commerciales**   
 :mortar_board: _Licence Professionnelle_ en **Banque**, **Finance** et **Assurance**    
 :mortar_board: _Titre Professionnel_ de **Développeur Web & Web Mobile** obtenu aprés une formation **Full Stacks** effectuée avec l'école [O'clock](https://oclock.io/)  
-💻  **étutdie** et **pratique couramment** la programmation pour **ameliorer** ses **compétences**    
-:seedling: **continue** à en **apprendre** plus à propos de **HTML**, **CSS**, **JS**, **PHP** et **Symfony** au travers une **pratique quotidienne**   
+:seedling: **étutdie** et **pratique quotidiennement** la programmation pour **ameliorer** ses **compétences** sur les langagues **HTML**, **CSS**, **JS**, **PHP** et le framework **Symfony**    
 🔍 **intéréssé** par des **missions** en **freelance**, pour des **petites** et **moyennes entreprises** (PME)      
 :e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon **site internet** [elevenLead](https://oclock.io/) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
 
