@@ -22,8 +22,9 @@
 :e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon **site internet** [elevenLead](https://oclock.io/) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
 
 ## :toolbox: **Stack**
-![](images/visual-studio-code.svg) ![](images/git.svg)        
+![](images/visual-studio-code.svg)      
 ![](images/markdown.svg)      
+![](images/git.svg)   
 ![](images/html.svg) ![](images/css.svg) ![](images/javascript.svg) ![](images/json.svg) ![](images/php.svg)        
 ![](images/mysql.svg) ![](images/php-myadmin.svg) ![](images/insomia.svg)             
 ![](images/symfony.svg)
