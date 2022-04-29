@@ -23,11 +23,11 @@
 
 ## :toolbox: **Stack**
 ![](images/visual-studio-code.svg)      
-![](images/markdown.svg)      
-![](images/git.svg) ![](images/github.svg)                  
+![](images/markdown.svg)                 
 ![](images/html.svg) ![](images/css.svg) ![](images/javascript.svg) ![](images/json.svg) ![](images/php.svg)        
 ![](images/mysql.svg) ![](images/php-myadmin.svg) ![](images/insomia.svg)             
 ![](images/symfony.svg)
+![](images/git.svg) ![](images/github.svg)       
 
 ## :hearts: **I like**
 
