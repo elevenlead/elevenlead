@@ -21,14 +21,14 @@
 :mortar_board: _Titre Professionnel_ de **Développeur Web & Web Mobile** obtenu aprés une formation **Full Stacks** effectuée avec l'école [O'clock](https://oclock.io/)  
 :seedling: **étutdie** et **pratique quotidiennement** la programmation pour **ameliorer** ses **compétences** sur les langagues **HTML**, **CSS**, **JS**, **PHP** et le framework **Symfony**    
 🔍 **intéréssé** par des **missions** en **freelance**, pour des **petites** et **moyennes entreprises** (PME)      
-:e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon site [elevenLead.com](https://oclock.io/) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
+:e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon site [elevenLead](https://oclock.io/) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
 
 ## :toolbox: **Stack**
 ![](images/visual-studio-code.svg)      
 ![](images/markdown.svg)                 
 ![](images/html.svg) ![](images/css.svg) ![](images/javascript.svg) ![](images/json.svg)     
 ![](images/php.svg) ![](images/mysql.svg)       
-![](images/php-myadmin.svg) ![](images/insomia.svg)             
+![](images/mariadb.svg) ![](images/php-myadmin.svg) ![](images/insomia.svg)             
 ![](images/symfony.svg)   
 ![](images/git.svg) ![](images/github.svg)       
 
