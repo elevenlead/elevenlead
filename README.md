@@ -7,7 +7,7 @@
 
 ## :mag: **À propos**
 
-:calendar: 26 ans  
+:calendar: 27 ans  
 :round_pushpin: situé en Essonne - France       
 💻 aime **développer des applications web** et **découvrir de nouvelles technologies**   
 :white_check_mark: excellent relationnel, à l'ecoute et réactif  
