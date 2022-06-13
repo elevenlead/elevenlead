@@ -20,7 +20,7 @@
 :mortar_board: _Licence Professionnelle_ en **Banque**, **Finance** et **Assurance**    
 :mortar_board: _Titre Professionnel_ de **Développeur Web & Web Mobile** obtenu aprés une formation **Full Stacks** effectuée avec l'école [O'clock](https://oclock.io/)  
 :seedling: **étutdie** et **pratique quotidiennement** la programmation pour **ameliorer** ses **compétences** sur les langagues **HTML**, **CSS**, **JS**, **PHP** et le framework **Symfony**    
-🔍 **intéréssé** par des **missions** en **freelance**, pour des **petites** et **moyennes entreprises** (PME)      
+🔍 **intéréssé** par des **missions** en freelance de développement d’applications/sites web et web mobile pour des clients particuliers, petites ou moyennes entreprises.   
 :e-mail: un **projet** ou des **questions** ? N'hesitez pas à visiter mon site [elevenLead](https://elevenlead.com) :spider_web: et à m'envoyer un **e-mail** en utilisant le **formulaire de contact**   
 
 ## :toolbox: **Stack**
